@@ -1,2 +1,3 @@
-# Leslie_Comic_DC
-Leslie KROURI OBOMALAYAT Comic_DC
+# Leslie_Comic_DC : Les Justiciers
+Leslie KROURI OBOMALAYAT TP_Comic_DC
+
